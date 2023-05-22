@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/tv1"
+        android:padding="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hello this is a simple text"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        android:fontFamily="@font/abril_fatface"/>
+    <TextView
+        android:id="@+id/tv2"
+        android:padding="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hello this is a simple text"
+        android:textSize="15sp"
+        android:fontFamily="@font/abril_fatface"
+        android:textStyle="bold"/>
+    <TextView
+        android:id="@+id/tv3"
+        android:padding="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hello this is a simple text"
+        android:textSize="15sp"
+        android:fontFamily="@font/abril_fatface"
+        android:textStyle="bold"/>
+    <TextView
+        android:id="@+id/tv4"
+        android:padding="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hello this is a simple text"
+        android:textSize="15sp"
+        android:fontFamily="@font/abril_fatface"
+        android:textStyle="bold"/>
+
+</LinearLayout>
